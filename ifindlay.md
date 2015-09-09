@@ -1,0 +1,3 @@
+FooBar
+New line
+test
