@@ -1,1 +1,2 @@
 FooBar
+New line
