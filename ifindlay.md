@@ -1,2 +1,3 @@
 FooBar
 New line
+test
